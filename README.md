@@ -17,7 +17,7 @@ work the way they are working in specialy a designing part of Web-Development.
 <br /><br />
 
 # Project 3 : Parallax Effect Website ( <a href="https://youtu.be/VwWZx_JvED0" target="_blank">Demo</a> ) 
-![Project 1: ](https://github.com/AaadityaG/HTML-CSS-projects/blob/main/Presenting%20Projects/p3.gif)
+![Project 1: ](https://github.com/AaadityaG/HTML-CSS-projects/blob/main/Presenting%20Projects/p3.png)
 
 <br /><br />
 
@@ -28,3 +28,29 @@ work the way they are working in specialy a designing part of Web-Development.
 
 # Project 5 : Restaurant Website ( <a href="https://youtu.be/5Uaj7uPiqx8" target="_blank">Demo</a> ) 
 ![Project 5: ](https://github.com/AaadityaG/HTML-CSS-projects/blob/main/Presenting%20Projects/p5.png)
+
+<br /><br />
+
+# Project 6 : Music Website ( <a href="https://youtu.be/XemKAxQWRQY" target="_blank">Demo</a> ) 
+![Project 5: ](https://github.com/AaadityaG/HTML-CSS-projects/blob/main/Presenting%20Projects/p6.png)
+
+<br /><br />
+
+# Project 7 : Youtube Interface ( <a href="https://youtu.be/nxvJGslcSLc" target="_blank">Demo</a> ) 
+![Project 5: ](https://github.com/AaadityaG/HTML-CSS-projects/blob/main/Presenting%20Projects/p7.png)
+
+<br /><br />
+
+# Project 8 : Javascript Documentation Website ( <a href="https://youtu.be/0SpNvlqXM-8" target="_blank">Demo</a> ) 
+![Project 5: ](https://github.com/AaadityaG/HTML-CSS-projects/blob/main/Presenting%20Projects/p8.png)
+
+<br /><br />
+
+# Project 9 : Blog Website ( <a href="https://youtu.be/CDzBdU8x55E" target="_blank">Demo</a> ) 
+![Project 5: ](https://github.com/AaadityaG/HTML-CSS-projects/blob/main/Presenting%20Projects/p9.png)
+
+<br /><br />
+
+# Project 10 : Portfolio Website ( <a href="" target="_blank">Demo</a> ) 
+![Project 5: ](https://github.com/AaadityaG/HTML-CSS-projects/blob/main/Presenting%20Projects/p10.png)
+
